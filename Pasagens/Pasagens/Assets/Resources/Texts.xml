@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<strings>
+
+	<presentationScreen value="Olá! 
+A paisagem do campo costuma ser bem diferente da paisagem da cidade. Observe com atenção cada fotografia e arraste o elemento da esteira que combina com a paisagem.
+
+Boa sorte!
+"/>
+
+	<pauseScreen value="Ufa! Pausa para descansar." />
+	
+	<failScreenTime value="Não foi dessa vez. Quer tentar de novo?" />
+	
+	<failScreenMistakes value="Não foi dessa vez. Quer tentar de novo?" />
+	
+	<quitScreenHome value="Quer mesmo sair do jogo? Sem a sua ajuda, não saberemos o que pertence ao campo e o que pertence a cidade." />
+	
+	<quitScreenRestart value="Você quer mesmo reiniciar o jogo?" />
+	
+	<positiveFeedback1 value="É isso que podemos encontrar no campo." />
+	<positiveFeedback2 value="É isso que podemos encontrar no campo." />
+	<positiveFeedback3 value="Você mostrou que conhece bem o campo. Agora, vamos ver o que você sabe sobre a cidade. Siga para o próximo nível!" />
+	<positiveFeedback4 value="É isso que podemos encontrar na cidade." />
+	<positiveFeedback5 value="É isso que podemos encontrar na cidade." />
+	<positiveFeedback6 value="Pelo visto, você entende bem a diferença entre o campo e a cidade!" />
+	
+	<tutorial1 value ="Nos três primeiros níveis do jogo existe uma paisagem do campo enquanto nos outros aparece uma imagem da cidade." />
+	<tutorial2 value ="Objetos relacionados às duas paisagens passarão pela esteira." />
+	<tutorial3 value ="Arraste para as paisagens os objetos da esteira que correspondem ao ambiente representado." />
+	
+</strings>
+

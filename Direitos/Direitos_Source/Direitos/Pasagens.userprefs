@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Texts.xml">
+    <Files>
+      <File FileName="Assets/Resources/Texts.xml" Line="28" Column="55" />
+      <File FileName="Assets/btnActionsQuitScreen.cs" Line="25" Column="4" />
+      <File FileName="Assets/btnActionsLevelFeedbackScreen.cs" Line="99" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

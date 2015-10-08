@@ -1,0 +1,37 @@
+{
+	"Button": 			"/audio/Click.ogg",
+	
+	"Home": 			"/audio/codigosecreto_narrador_titulo.ogg",
+	"Intro":			"/audio/codigosecreto_silvia_challengepresentation.ogg",
+	"Levels":			"/audio/silence.wav",
+	"Ranks":			"/audio/silence.wav",
+	
+	"GameLvl1Tela1":	"/audio/codigosecreto_silvia_tela1.ogg",
+	"GameLvl1Tela2":	"/audio/codigosecreto_silvia_tela2.ogg",
+	"GameLvl2Tela1":	"/audio/codigosecreto_silvia_level2part1_tela1.ogg",
+	"GameLvl2Tela2":	"/audio/CORREÇÃO_CÓDIGO_SECRETO-ELISIA-NIVEL_2.ogg",
+	"GameLvl3Tela1":	"/audio/codigosecreto_silvia_level3_tela1.ogg",
+	
+	"Tutorial1Part1":	"/audio/codigosecreto_silvia_tutorialscreen1_tutorial1.ogg",
+	"Tutorial1Part2":	"/audio/codigosecreto_silvia_tutorialscreen1_tutorial2.ogg",
+	"Tutorial2Part1":	"/audio/codigosecreto_silvia_tutorialscreen2_tutorial1.ogg",
+	"Tutorial2Part2":	"/audio/codigosecreto_silvia_tutorialscreen2_tutorial2.ogg",
+	"Tutorial3Part1":	"/audio/codigosecreto_silvia_tutorialscreen3_tutorial1.ogg",
+	"Tutorial3Part2":	"/audio/codigosecreto_silvia_tutorialscreen3_tutorial2.ogg",
+	
+	"Quit":				"/audio/codigosecreto_silvia_quitscreen.ogg",
+	"Reset":			"/audio/REINICIAR_O_JOGO_-_ELISIA.ogg",
+	"Pause":			"/audio/codigosecreto_silvia_pausescreen.ogg",
+	
+	"FailLvl1":			"/audio/codigosecreto_silvia_negativefeedbacklevel1.ogg",
+	"FailLvl2":			"/audio/codigosecreto_silvia_negativefeedbacklevel2.ogg",
+	"FailLvl3":			"/audio/codigosecreto_silvia_negativefeedbacklevel3.ogg",
+	"FailTimeIsOver":	"/audio/codigosecreto_silvia_negativefeedback_timeover.ogg",
+	
+	"Win1":				"/audio/codigosecreto_silvia_intermediatepositivefeedback.ogg",
+	"Win2":				"/audio/codigosecreto_silvia_intermediatepositivefeedback.ogg",
+	"Win3":				"/audio/codigosecreto_silvia_finalfeedback.ogg",
+	
+	"Good":				"/audio/menu_enter.wav",
+	"Bad":				"/audio/ding.wav"
+}

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameData.cs">
+    <Files>
+      <File FileName="Assets/Scripts/btnActionsFailScreen.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/btnActionsLevelFeedbackScreen.cs" Line="51" Column="26" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="28" Column="48" />
+      <File FileName="Assets/Scripts/GameData.cs" Line="52" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

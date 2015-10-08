@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+
+<strings>
+
+	<presentationScreen value="Olá!
+Eu ainda não sei que profissão escolher. Mas eu acho importante gostar do que se faz e ter os direitos trabalhistas respeitados. 
+Você sabia que todos os empregados têm direitos garantidos por lei?
+Nesse desafio você vai aprender um pouco mais sobre isso. Leia as histórias com atenção e organize os quadrinhos.
+Vamos ao trabalho!
+"/>
+
+	<pauseScreen value="Ufa! Pausa para descansar." />
+	
+	<failScreenTime value="Não foi dessa vez. Quer tentar de novo?" />
+	
+	<failScreenMistakes value="Não foi dessa vez. Tente novamente!" />
+	
+	<challengeLevelScreen value="Ordene as cenas representadas nos quadrinhos e monte o quebra-cabeça para resolver o enigma." />
+	
+	<quitScreenHome value="Quer mesmo sair do jogo?" />
+	
+	<quitScreenRestart value="Você quer mesmo reiniciar o jogo?" />
+	
+	<PuzzleText1 value="Qual documento Raoni deve apresentar para a gerente da empresa? " />
+	<PuzzleText2 value="Ele teve 5 dias de afastamento do trabalho garantidos por qual benefício?" />
+	<PuzzleText3 value="Como se chama o direito da mãe de afastar do trabalho para a chegada dos filhos?" />
+	<PuzzleText4 value="A que etapa eles se referem?" />
+	<PuzzleText5 value="A que direito ela se refere?" />
+	
+	<positiveFeedback1 value="A carteira de trabalho é o documento no qual se registra a trajetória profissional de uma pessoa." />
+	<positiveFeedback2 value="A licença-paternidade garante ao pai 5 dias de afastamento do emprego assim que um filho chegar à família." />
+	<positiveFeedback3 value="A licença-maternidade assegura 120 dias de afastamento do trabalho para as mães se dedicarem aos cuidados dos filhos recém-chegados." />
+	<positiveFeedback4 value="A aposentadoria, nesse caso, se refere ao afastamento do serviço após completar o tempo estipulado para o exercício da atividade rural." />
+	<positiveFeedback5 value="As férias são o período de descanso remunerado garantido a todo empregado." />
+	<positiveFeedback6 value="Pelo visto, você entende bem a diferença entre o campo e a cidade!" />
+	
+	<positivePuzzleFeedback1 value="A carteira de trabalho é o documento no qual se registra a trajetória profissional de uma pessoa." />
+	<positivePuzzleFeedback2 value="A licença-paternidade garante ao pai 5 dias de afastamento do emprego ao pai assim que um filho chegar à família." />
+	<positivePuzzleFeedback3 value="A licença-maternidade assegura120 dias de afastamento do trabalho para as mães se dedicarem aos cuidados dos filhos recém-chegados." />
+	<positivePuzzleFeedback4 value="A aposentadoria, nesse caso, se refere ao afastamento do serviço após completar o tempo estipulado para o exercício da atividade rural." />
+	<positivePuzzleFeedback5 value="As férias são o período de descanso remunerado garantido a todo empregado" />
+	
+	<tutorial1 value ="Organize as cenas e conheça histórias de trabalhadores e alguns de seus direitos." />
+	<tutorial2 value ="Leia o enigma com atenção e responda ao desafio montando o quebra-cabeça." />
+	<tutorial3 value ="Arraste as peças para montar o quebra-cabeça." />
+	<tutorial4 value ="Você pode montar o quebra-cabeça e depois ordenar as cenas, ou vice-versa. Clique no  botão quando a história estiver completa." />
+	
+</strings>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{4A8CCCB8-3151-6B0C-DD1D-F98CB1CA5FBD}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_0;UNITY_4_5;UNITY_WEBPLAYER;WEBPLUG;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\CodigoSecreto\Scripts\AudioController.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\AudioLoading.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Libs\JSONObject.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Libs\JSONTemplates.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Libs\Nullable.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Libs\ObjectClone.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\LoadSound.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\MySettings.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\PopUp\PopUpFeedback.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\PopUp\PopUpGeneral.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\PopUp\PopUpSettings.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\PopUp\PopUpTutorial.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\RankSystem.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Screens\ScreenGame.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Screens\ScreenHome.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Screens\ScreenIntro.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Screens\ScreenLevels.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\Screens\ScreenRanking.cs" />
+     <Compile Include="Assets\CodigoSecreto\Scripts\TextController.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Example\Scripts\PlatformIntegrationDemo.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Example\Scripts\utils\DebugConsole.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Example\Scripts\utils\GUIButton.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Example\Scripts\utils\TextFieldWithName.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\External\Scripts\PlataformDataManager.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\External\Scripts\RequestHelper.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\External\Scripts\RequestManager.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\ExternalCommunicator.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\library\ExternalParameters.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\library\ExternalResources.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\library\JsonObject.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\library\LocalDataManager.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\library\SimpleJSON.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\base\BaseClientValueObject.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\base\BaseRequestModel.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\base\BaseServerValueObject.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getMinigameRanking\GetMinigameRankingCVO.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getMinigameRanking\GetMinigameRankingRM.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getMinigameRanking\GetMinigameRankingSVO.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getPlatformData\GetPlatformDataCVO.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getPlatformData\GetPlatformDataRM.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getPlatformData\GetPlatformDataSVO.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getPlayerHistory\GetPlayerHistoryCVO.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getPlayerHistory\GetPlayerHistoryRM.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\getPlayerHistory\GetPlayerHistorySVO.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\savePlayerScore\SavePlayerScoreCVO.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\savePlayerScore\SavePlayerScoreRM.cs" />
+     <Compile Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Scripts\requests\savePlayerScore\SavePlayerScoreSVO.cs" />
+     <Compile Include="Assets\Tamboro\SoundManager\Example\Example.cs" />
+     <Compile Include="Assets\Tamboro\SoundManager\Source\Sound.cs" />
+     <Compile Include="Assets\Tamboro\SoundManager\Source\SoundManager.cs" />
+     <None Include="Assets\Tamboro\SoundManager\Readme.txt" />
+     <None Include="Assets\Tamboro\SoundManager\Resources\sounds.xml" />
+     <None Include="Assets\Tamboro\PlatformIntegration\Source\Internal\Resources\api-version.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

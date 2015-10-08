@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+  <sound >
+    <name>Encaixe</name>
+    <description><![CDATA[Generic sound used when something dovetails with something else.]]> </description>
+    <path>Sounds/SoundFX/Encaixe</path>
+  </sound>
+  <sound >
+    <name>Click</name>
+    <description><![CDATA[Generic click sound.]]> </description>
+    <path>Sounds/SoundFX/Click</path>
+  </sound>
+  <sound >
+    <name>Challenge</name>
+    <description><![CDATA[This sound is played when the character explains the goals of the game.]]> </description>
+    <path>Sounds/Challenge/Challenge</path>
+  </sound>
+  <sound >
+    <name>TimeOut</name>
+    <description><![CDATA[This sound clip is played when the time is over]]> </description>
+    <path>Sounds/NegativeFeedback/TimeOut</path>
+  </sound>
+  <sound >
+    <name>TryAgain</name>
+    <description><![CDATA[Played when the player makes a mistake and has another chance]]> </description>
+    <path>Sounds/NegativeFeedback/TryAgain</path>
+  </sound>
+  <sound >
+    <name>Opening</name>
+    <description><![CDATA[Played at the title screen. It always says the name of the game]]> </description>
+    <path>Sounds/Opening/Opening</path>
+  </sound>
+  <sound >
+    <name>Pause</name>
+    <description><![CDATA[Played in the pause screen]]> </description>
+    <path>Sounds/Pause/Pause</path>
+  </sound>
+  <sound >
+    <name>Quit</name>
+    <description><![CDATA[Played in the Quit confirmation screen]]> </description>
+    <path>Sounds/Quit/Quit</path>
+  </sound>
+  <sound >
+    <name>FeedbackLevel1</name>
+    <description><![CDATA[Played when the player wins the first level]]> </description>
+    <path>Sounds/PositiveFeedback/Level1Feedback</path>
+  </sound>
+</sounds>
